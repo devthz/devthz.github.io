@@ -2,7 +2,7 @@
 
 ## Education
 
-- Associate Degree, Data Science, Fev 2023 - Jul 2025
+- Data Science,Associate Degree, Fev 2023 - Jul 2025
 - IBM Data Science Professional Certificate, Fev 2025 - Apr 2025
   
 ----------------------------------------
