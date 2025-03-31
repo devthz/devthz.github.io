@@ -1,5 +1,5 @@
 # Data Analyst/Scientist
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiagohsa22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiagohsa22)
 
 ## Education
 
